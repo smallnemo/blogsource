@@ -15,6 +15,7 @@ log/
 logs/
 *.log%     
 *.log
+
 #mac 
 .DS_Store
 

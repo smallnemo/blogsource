@@ -1,7 +1,7 @@
 ---
 title: GitHub+Hexo+Godaddy快速搭建个人博客
 date: 2016-08-17 10:16:48
-tags: Github,Hexo,Godaddy
+tags: [Github,Hexo,Godaddy]
 ---
 
 

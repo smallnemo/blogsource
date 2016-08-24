@@ -1,7 +1,7 @@
 ---
-title: linkerd调研<1>(Introduction)
+title: linkerd简介(1):Introduction
 date: 2016-08-16 14:47:22
-tags: RPC
+tags: [RPC,linkerd]
 ---
 
 
